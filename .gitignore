@@ -1,0 +1,8 @@
+.venv/
+.env
+.env.*
+__pycache__/
+.ipynb_checkpoints/
+bags-detection-*/
+runs/
+*.pt
