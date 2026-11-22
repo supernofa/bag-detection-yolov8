@@ -4,6 +4,12 @@ A computer vision task from the Tuwaiq Data Science & AI Bootcamp. The notebook 
 
 ![Bounding-box predictions on five test images](test-predictions.png)
 
+## Members
+- Nouf
+- [Razan](https://github.com/Razan-2)
+- [Raghad](https://github.com/Raghad5MH)
+- [Shaden](https://github.com/ShadenAlrshoud)
+
 ## Dataset and training
 
 The notebook downloads version 7 of the [Roboflow Bags Detection dataset](https://universe.roboflow.com/birdstriketeam/bags-detection-ztrkp/dataset/7) in YOLOv8 format. The export used in the recorded run contained 93 training images after augmentation, 9 validation images, and 5 test images.
