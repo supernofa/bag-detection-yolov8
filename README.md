@@ -5,7 +5,7 @@ A computer vision task from the Tuwaiq Data Science & AI Bootcamp. The notebook 
 ![Bounding-box predictions on five test images](test-predictions.png)
 
 ## Members
-- Nouf
+- [Nouf](https://github.com/supernofa)
 - [Razan](https://github.com/Razan-2)
 - [Raghad](https://github.com/Raghad5MH)
 - [Shaden](https://github.com/ShadenAlrshoud)
